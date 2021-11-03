@@ -4,7 +4,7 @@
 
     "AdsController": [
       {
-        "NetworkAds": "facebook",
+        "NetworkAds": "mix",
         "AdMobId": "",
 
         "BannerAdmob": "",
@@ -66,7 +66,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470780.jpg",
         "text": " We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.",
         "isNative": "true"
       }
@@ -334,7 +334,7 @@
         "isLink": "false","link_title": "click to watch ","setLink": "",
         "image_link": "http://www.xmeteorite.com/bible/icon.png",
         "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
-        "isNative": "false"
+        "isNative": "true"
       }
     ]
   }
