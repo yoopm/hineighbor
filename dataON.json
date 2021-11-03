@@ -1,0 +1,341 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "1047688085699214_1047689332365756",
+        "InterstitialFacebook": "1047688085699214_1047688709032485",
+        "NativeFacebook": "1047688085699214_1047926895675333"
+
+      }
+    ],
+
+  
+  "items": [
+      
+      {
+        "title": "",
+        "image": "http://www.xmeteorite.com/broukh2/a.jpg"
+      },
+       {
+        "title": "",
+        "image": "http://www.xmeteorite.com/broukh2/b.jpg"
+      },
+        {
+        "title": "",
+        "image": "http://www.xmeteorite.com/broukh2/c.jpg"
+      },
+      {
+        "title": "",
+        "image": "http://www.xmeteorite.com/broukh2/d.jpg"
+      },
+      {
+        "title": "",
+        "image": "http://www.xmeteorite.com/broukh2/e.jpg"
+      },
+       {
+        "title": "",
+        "image": "http://www.xmeteorite.com/broukh2/a.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Intro",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.",
+        "isNative": "true"
+      }
+    ],
+    
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": " Tips ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "Download new sport streaming app ","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.",
+        "isNative": "true"
+      }
+    ],
+    
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to enter ","setLink": "",
+        "image_link": "",
+        "text": " Roblox games are social, multiplayer experiences. In fact, Roblox could be your child’s first experience with digital socializing. ",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The Fall",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " Players can comment and converse with other players inside a game and also chat with their friends on Roblox.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The Fall",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click here","setLink": "",
+        "image_link": "",
+        "text": " Launched in 2006, Roblox’s popularity among gamers 8-years-old and up has exploded, and it is now one of the top online entertainment platforms for kids and teens, according to comScore.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Cain and Abel",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Cain and Abel",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "true"
+      }
+    ],
+"content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "From Adam to Noah",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "true"
+      }
+    ],
+     "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "From Adam to Noah",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "true"
+      }
+    ],
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Wickedness in the World",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "true"
+      }
+    ],
+    "content11": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Wickedness in the World ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "false"
+      }
+    ],
+    "content12": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "outro",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+        "image_link": "http://www.xmeteorite.com/bible/icon.png",
+        "text": " It’s a platform that allows anyone to create their own online games by using its game design tool known as Roblox Studio.",
+        "isNative": "false"
+      }
+    ]
+  }
+}
