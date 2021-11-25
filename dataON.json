@@ -74,10 +74,10 @@
     "content1": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#20c4f4","style": "blood",
         "gravity": "left",
         "left": "10",
-        "text_size": "25",
+        "text_size": "50",
         "isLink": "true","link_title": "Get Skins FF","setLink": "http://whatstoolkit.com/fff",
         "image_link": "",
         "text": "Intro",
@@ -85,7 +85,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#20c4f4","style": "blood",
         "gravity": "left",
         "left": "5",
         "text_size": "20",
