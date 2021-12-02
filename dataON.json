@@ -78,7 +78,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "50",
-        "isLink": "true","link_title": "Get Skins FF","setLink": "http://whatstoolkit.com/fff",
+        "isLink": "true","link_title": "","setLink": "",
         "image_link": "",
         "text": "Intro",
         "isNative": "true"
@@ -89,7 +89,7 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "true","link_title": "Get FFF","setLink": "http://whatstoolkit.com/fff/",
+        "isLink": "true","link_title": "","setLink": "",
         "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470593.jpg",
         "text": " Some overlap exists between Hello Neighbor Acts II and III. If you haven't yet finished the in-between segment taking place in a different time, walk into your house for a cutscene, then grab the green key out of the car trunk to access the neighbor's house and pick up the phone. With that out of the way, it's time to get started back on the regular gameplay.
 
@@ -116,7 +116,7 @@ First, grab any small, throwable item (such as the VHS tape in your house) and t
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "false","link_title": "Download new sport streaming app ","setLink": "",
+        "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470608.jpg",
         "text": " Break the window directly next to you and head inside the house. Immediately turn left and enter the door that was opened by the switch, which leads to several long sets of ladders going up.
 
